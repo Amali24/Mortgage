@@ -43,5 +43,6 @@ int main()
          << "Monthly Payment: $" << mort1.calcMonthlyPayment() << endl
          << "Total Pay Back: $" << mort1.calcTotalPayment() << endl << endl;
 
+	system("pause");
     return 0;
 }
